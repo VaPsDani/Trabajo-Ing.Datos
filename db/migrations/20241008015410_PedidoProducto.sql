@@ -10,3 +10,4 @@ CREATE TABLE PedidoProducto (
 
 -- migrate:down
 
+DROP TABLE PedidoProducto;
